@@ -27,7 +27,7 @@
     // this code will run in the app itself
 #else
     // this code will execute only in IB
-    [self install];
+//    [self install];
 #endif
     
 }
